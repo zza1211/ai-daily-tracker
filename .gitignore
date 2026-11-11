@@ -1,0 +1,9 @@
+# 临时文件
+*.tmp
+*.bak
+
+# 本地编辑器和系统文件
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
