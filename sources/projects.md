@@ -69,3 +69,9 @@
 6. `状态`：新增、更新、迁移、归档、争议或待验证。
 
 每日更新时，项目是否“热门”应结合近期 release/commit、论文引用或复现实验、社区采用和兼容性变化判断，避免只复制排行榜或 star 数。
+
+## 5. 2026-11-12 新增跟踪项目
+
+| 项目 | 方向 | 主要用途 | 近期信号 | 官方链接 | 许可证 |
+|---|---|---|---|---|---|
+| BotPsy-0.8B | 端侧 Agent / 工具调用 | 基于 Qwen3.5-0.8B 的个人助理模型，面向低至中等难度的多轮工具工作流 | 2026-11-11 发布；SFT、on-policy distillation、规则奖励 RL；提供 safetensors 与 GGUF | [模型页](https://huggingface.co/qvac/botpsy-0.8b) / [官方文章](https://huggingface.co/blog/qvac/botpsy) | Apache-2.0 |
