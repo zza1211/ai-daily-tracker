@@ -75,3 +75,9 @@
 | 项目 | 方向 | 主要用途 | 近期信号 | 官方链接 | 许可证 |
 |---|---|---|---|---|---|
 | BotPsy-0.8B | 端侧 Agent / 工具调用 | 基于 Qwen3.5-0.8B 的个人助理模型，面向低至中等难度的多轮工具工作流 | 2026-11-11 发布；SFT、on-policy distillation、规则奖励 RL；提供 safetensors 与 GGUF | [模型页](https://huggingface.co/qvac/botpsy-0.8b) / [官方文章](https://huggingface.co/blog/qvac/botpsy) | Apache-2.0 |
+
+## 6. 2026-11-15 更新信号
+
+| 项目 | 方向 | 近期信号 | 官方链接 | 许可证 |
+|---|---|---|---|---|
+| llama.cpp 1.0 | 本地/边缘推理 | Hugging Face 于 2026-11-14 发布 1.0 说明；`libllama` 与 `libggml` 采用明确的 API/ABI 语义化版本规则，便于下游绑定、桌面应用和推理服务评估升级风险 | [官方说明](https://huggingface.blog/blog/ggml-org-llama-cpp-v1/) / [GitHub](https://github.com/ggml-org/llama.cpp) | MIT |
