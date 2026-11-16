@@ -81,3 +81,9 @@
 | 项目 | 方向 | 近期信号 | 官方链接 | 许可证 |
 |---|---|---|---|---|
 | llama.cpp 1.0 | 本地/边缘推理 | Hugging Face 于 2026-11-14 发布 1.0 说明；`libllama` 与 `libggml` 采用明确的 API/ABI 语义化版本规则，便于下游绑定、桌面应用和推理服务评估升级风险 | [官方说明](https://huggingface.blog/blog/ggml-org-llama-cpp-v1/) / [GitHub](https://github.com/ggml-org/llama.cpp) | MIT |
+
+## 7. 2026-11-16 更新信号
+
+| 项目 | 方向 | 近期信号 | 官方链接 | 许可证 |
+|---|---|---|---|---|
+| vllm-xpu-kernels | Intel GPU/XPU 推理内核 | 2026-11-15 发布 nightly `v0.1.18-20261115`，自动构建自 `93f275f`；覆盖注意力、KV cache、MoE、LoRA、FP8/MxFP4 与 GEMM 等 vLLM 后端路径 | [GitHub Releases](https://github.com/vllm-project/vllm-xpu-kernels/releases) / [仓库](https://github.com/vllm-project/vllm-xpu-kernels) | Apache-2.0 |
