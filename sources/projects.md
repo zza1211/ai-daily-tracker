@@ -87,3 +87,9 @@
 | 项目 | 方向 | 近期信号 | 官方链接 | 许可证 |
 |---|---|---|---|---|
 | vllm-xpu-kernels | Intel GPU/XPU 推理内核 | 2026-11-15 发布 nightly `v0.1.18-20261115`，自动构建自 `93f275f`；覆盖注意力、KV cache、MoE、LoRA、FP8/MxFP4 与 GEMM 等 vLLM 后端路径 | [GitHub Releases](https://github.com/vllm-project/vllm-xpu-kernels/releases) / [仓库](https://github.com/vllm-project/vllm-xpu-kernels) | Apache-2.0 |
+
+## 8. 2026-11-17 更新信号
+
+| 项目 | 方向 | 近期信号 | 官方链接 | 许可证 |
+|---|---|---|---|---|
+| llama.cpp | 推理项目构建基础设施 | 11 月 16 日工程公告：PR 差异选择检查、Buckets 编译缓存、Jobs 承接多数 Linux x64 CI；未指定新稳定版本，未报告模型推理加速 | [项目官方文章](https://huggingface.co/blog/ggml-org/llama-cpp-ci-buckets) / [许可证](https://github.com/ggml-org/llama.cpp/blob/master/LICENSE) | MIT；云服务另受服务条款约束 |
