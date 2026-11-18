@@ -93,3 +93,10 @@
 | 项目 | 方向 | 近期信号 | 官方链接 | 许可证 |
 |---|---|---|---|---|
 | llama.cpp | 推理项目构建基础设施 | 11 月 16 日工程公告：PR 差异选择检查、Buckets 编译缓存、Jobs 承接多数 Linux x64 CI；未指定新稳定版本，未报告模型推理加速 | [项目官方文章](https://huggingface.co/blog/ggml-org/llama-cpp-ci-buckets) / [许可证](https://github.com/ggml-org/llama.cpp/blob/master/LICENSE) | MIT；云服务另受服务条款约束 |
+
+## 2026-11-18 增量记录
+
+- vLLM `v0.34.0` / `62d4bc3`：11-16 release，近期补充；代码 Apache-2.0，权重另核。
+- External Sandbox 家族：v86 package `0.4.0`，源码提交 `4134917381e7a239ffedf89553724e6dde389141`（2026-11-16 UTC）；代码 Apache-2.0，guest 组件另有许可。
+
+版本、原始链接、升级要求和复现边界见[2026-11-18 日报](../daily/2026-11-18.md)。
