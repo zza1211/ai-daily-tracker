@@ -106,3 +106,7 @@
 - **Recapture**：main `4533c4606ffc957029e36dba68e441cf6f4a0c4d`，2026-11-17 UTC，11-18 作者公告；文档扫描/拍照数据合成，Apache-2.0、纹理另为 CC0，无权重；[仓库](https://github.com/PSPDFKit-labs/recapture)，复现条件见 [日报](../daily/2026-11-19.md)。
 - **LLM 0.37.3**：`2216eb1`，11-16 发布；工具参数/异步/流式调用、日志及 embedding 修复，Apache-2.0；[release](https://github.com/simonw/llm/releases/tag/0.37.3)，外部模型许可另计。
 - ForceHarness 按论文主事件归档，代码快照与 MIT 核查见 [日报](../daily/2026-11-19.md)，不重复计项目新增。
+
+## 2026-11-20 近期更新
+
+- [OpenCode v2.3.2](https://github.com/anomalyco/opencode/releases/tag/v2.3.2)，11-18，c0ad18b，MIT：修复 Responses 路由提示前缀缓存；不附带模型权重。复现条件及自报计费数据边界见[日报](../daily/2026-11-20.md)。
