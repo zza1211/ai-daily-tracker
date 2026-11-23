@@ -114,3 +114,8 @@
 ## 2026-11-20 近期更新
 
 - [OpenCode v2.3.2](https://github.com/anomalyco/opencode/releases/tag/v2.3.2)，11-18，c0ad18b，MIT：修复 Responses 路由提示前缀缓存；不附带模型权重。复现条件及自报计费数据边界见[日报](../daily/2026-11-20.md)。
+
+## 2026-11-23 近期更新
+
+- **vLLM Inkling 2 Mini**：官方博客 2026-11-20，循环MoE、多遍KV cache、DSpark speculative decoding；vLLM Apache-2.0，模型许可另核。
+- **VisionClaw Agent R137.3+sec2**：仓库约2026-11-21更新，多Agent/MCP/沙箱快照；统一许可证未确认。

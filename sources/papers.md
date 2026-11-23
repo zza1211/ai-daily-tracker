@@ -225,3 +225,8 @@
 - [Jeveration](https://arxiv.org/abs/2611.24738)，v1 11-18：冻结 VLM 的并行单步图像生成。
 
 方法、作者、实验与许可边界见[11-20日报](../daily/2026-11-20.md)。均为近7天精选，不计严格24h首发。
+
+## 2026-11-23 近7天精选
+
+- [Evaluation-Free Recursive Self-Improvement for Coding Agents](https://arxiv.org/abs/2611.21056)：v1 2026-11-16；无需下游任务评测的编码Agent演化，作者报告SWE-bench Pro提升，预算与代理信号边界见[日报](../daily/2026-11-23.md)。
+- [From Recursion to Convolution](https://arxiv.org/abs/2611.20891)：v1 2026-11-16；并行多Agent自我改进，跨任务收益与代码许可待核。
