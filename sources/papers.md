@@ -230,3 +230,7 @@
 
 - [Evaluation-Free Recursive Self-Improvement for Coding Agents](https://arxiv.org/abs/2611.21056)：v1 2026-11-16；无需下游任务评测的编码Agent演化，作者报告SWE-bench Pro提升，预算与代理信号边界见[日报](../daily/2026-11-23.md)。
 - [From Recursion to Convolution](https://arxiv.org/abs/2611.20891)：v1 2026-11-16；并行多Agent自我改进，跨任务收益与代码许可待核。
+
+## 2026-11-26 近7天精选
+
+- [Self-Upgrading Embodied Agents](https://arxiv.org/abs/2611.31117)：v1 2026-11-23；具身 Agent 在任务间直接编辑自身权重并以留出任务筛选，作者声称多轮稳定收益；代码、完整统计和独立复现待核，详见[2026-11-26 日报](../daily/2026-11-26.md)。
